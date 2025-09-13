@@ -1,6 +1,8 @@
 
 # [Next.js Enterprise Boilerplate](https://blazity.com/open-source/nextjs-enterprise-boilerplate) 
 
+This boilerplate project is deployed here: https://vercel.com/smalbadgers-projects
+
 A production-ready template for building enterprise applications with Next.js. This boilerplate provides a solid foundation with carefully selected technologies and ready-to-go infrastructure to help you develop high-quality applications efficiently.
 
 ## Motivation
